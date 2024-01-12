@@ -6,6 +6,7 @@ body
   background-color: white;
   text-align: left;
 }
+h1 {text-align: center;}
 nav a {list-style-type: none;
 		display: inline;
 		font-weight: bold;
