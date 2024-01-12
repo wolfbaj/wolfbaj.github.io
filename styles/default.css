@@ -4,5 +4,11 @@ body
   font-family: papyrus;
   color: blue;
   background-color: white;
-  font-size: 100%;
+  text-align: left;
 }
+nav a {list-style-type: none;
+		display: inline;
+		font-weight: bold;
+		text-align: center;}
+p {line-height: 200%;
+	font-size: large;}
