@@ -1,4 +1,6 @@
-body {text-align: center;}
+body {text-align: center;
+		color: blue;
+		background: white;}
 nav a {list-style-type: none;
 		display: inline;
 		font-weight: bold;
